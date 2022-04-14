@@ -15,11 +15,11 @@ How to reach me:
  
  <br>
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elioenaiancelmo&show_icons=true&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioenaiancelmo&layout=anuraghazra&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elioenaiancelmo&show_icons=true&theme=dracula"/> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioenaiancelmo&layout=anuraghazra&theme=dracula"/>
   
   <br>
   
  ## Languages and Tools
   
   
-  <img align="center" alt="html" height="40" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  <img align="center" alt="css" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
